@@ -1,0 +1,7 @@
+Ping.fm bookmarklet
+
+Usage:
+
+Add this to your browser as bookmark:
+javascript:(function(){document.body.appendChild(document.createElement('script')).src='http://peikko.us/projects/pingbolt/pingbolt.js';})();
+

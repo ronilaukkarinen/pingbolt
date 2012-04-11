@@ -1,0 +1,1 @@
+javascript:location.href='http://ping.fm/dashboard/?post='+encodeURIComponent(document.title)+' '+encodeURIComponent(location.href);
